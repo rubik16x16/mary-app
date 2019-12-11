@@ -1,5 +1,7 @@
 {
   "name": "mary-app",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
